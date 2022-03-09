@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\bin\Debug\net6.0\CSpiss.exe
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\bin\Debug\net6.0\CSpiss.deps.json
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\bin\Debug\net6.0\CSpiss.runtimeconfig.json
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\bin\Debug\net6.0\CSpiss.dll
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\bin\Debug\net6.0\CSpiss.pdb
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\obj\Debug\net6.0\CSpiss.csproj.AssemblyReference.cache
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\obj\Debug\net6.0\CSpiss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\obj\Debug\net6.0\CSpiss.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\obj\Debug\net6.0\CSpiss.AssemblyInfo.cs
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\obj\Debug\net6.0\CSpiss.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\obj\Debug\net6.0\CSpiss.dll
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\obj\Debug\net6.0\refint\CSpiss.dll
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\obj\Debug\net6.0\CSpiss.pdb
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\obj\Debug\net6.0\CSpiss.genruntimeconfig.cache
+C:\Users\ander\Desktop\Documents\.GitHub\CSpiss\CSpiss\obj\Debug\net6.0\ref\CSpiss.dll
